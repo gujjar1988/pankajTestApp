@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.9.0)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - KVNProgress (2.3.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - AlamofireImage (~> 3.5)
+  - KVNProgress
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - KVNProgress
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  KVNProgress: d7046cce142f1aeb740db39dc3cacfe910fac354
+
+PODFILE CHECKSUM: 3920e37af89049815a5c840c97a4fc39b5c51442
+
+COCOAPODS: 1.8.4
