@@ -27,7 +27,6 @@ class TestTests: XCTestCase {
     func testDateValues(){
         let dateStr = "05/11/2019"
         let newStr = changeDateStringWithFormat(dateStr, "dd/MM/yyyy", "dd-MM-yyyy")
-
         XCTAssertEqual(newStr, "05-11-2019", "Score computed from guess is wrong")
     }
     
