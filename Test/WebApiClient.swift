@@ -14,7 +14,6 @@ import AlamofireImage
 var sampleKey = "qdIK6Sc0prFrRdOKJbZMsLnrCqZzwSBp"
 
 class WebApiClient: NSObject {
-    // test
     // Production
     static let shared: WebApiClient = WebApiClient(baseURL:URL.init(string: "http://api.nytimes.com/svc/mostpopular/v2/")!)
 
