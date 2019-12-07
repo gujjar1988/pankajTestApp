@@ -223,8 +223,8 @@ extension WebApiClient {
 
 
 
+//MARK:- Comment Line to disable all logs
 func printDebug<T>(_ obj: T) {
-    //MARK:- Comment Line to disable all logs
     #if DEBUG
     // debug only code
     print(obj)

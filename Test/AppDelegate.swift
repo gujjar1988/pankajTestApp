@@ -8,6 +8,8 @@
 
 import UIKit
 
+let data = (a:1, b:2)
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
