@@ -14,7 +14,6 @@ let data = (a:1, b:2)
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
-// sasasasasa
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
